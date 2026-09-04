@@ -1,0 +1,11 @@
+{
+  "name": "xentral-agent-hub",
+  "owner": { "name": "Xentral" },
+  "plugins": [
+    {
+      "name": "wissensbasis",
+      "source": "./",
+      "description": "Wissensbasis für den Xentral Agent Hub vorbereiten (Interview + CSV im Upload-Format)"
+    }
+  ]
+}

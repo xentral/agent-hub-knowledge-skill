@@ -1,0 +1,8 @@
+{
+  "name": "wissensbasis",
+  "version": "2026.09.1",
+  "description": "Bereitet dein Unternehmenswissen für den Xentral Agent Hub vor: Interview, Wissenseinträge, CSV-Export.",
+  "author": { "name": "Xentral" },
+  "homepage": "https://github.com/xentral/agent-hub-knowledge-skill",
+  "skills": "./skills"
+}
